@@ -1,11 +1,9 @@
 
 /* Your CSS Code here. */
-.holder{
+.holder {
 	display: flex;
-	
-	justice-content: space-between;
+/* 	to have space between them */
+	justify-content:space-between;
+/* new element will apear in next row */
 	flex-wrap: wrap;
-	
-	
-	
 }
